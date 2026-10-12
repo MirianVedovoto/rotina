@@ -1,0 +1,8 @@
+{
+  "appId": "com.rotinaleve.app",
+  "appName": "Rotina Leve",
+  "webDir": "www",
+  "android": {
+    "adjustMarginsForEdgeToEdge": "force"
+  }
+}

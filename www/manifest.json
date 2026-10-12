@@ -1,0 +1,9 @@
+{
+  "name": "Rotina Leve - Hábitos",
+  "short_name": "Rotina Leve",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f5f7",
+  "theme_color": "#c2185b",
+  "description": "Controle diário de hábitos, rotina mínima e histórico semanal."
+}
